@@ -3,13 +3,13 @@
 
 ## UX/UI
 
-1. [X] Pesquisar referências para design de interface - Dribble, Figma, entre outros.
+1. [ ] Pesquisar referências para design de interface - Dribble, Figma, entre outros.
 
-2. [X] Criar estrutura de interfaces do usuário, com uma tela de início, com foco em uma interface chamativa e intuitiva.
+2. [ ] Criar estrutura de interfaces do usuário, com uma tela de início, com foco em uma interface chamativa e intuitiva.
 
-3. [X] Criar telas de cadastro, login e gerenciamento de tarefas.
+3. [ ] Criar telas de cadastro, login e gerenciamento de tarefas.
 
-4. [X] Criar formulários de criação e edição de tarefas (bem como de usuários).
+4. [ ] Criar formulários de criação e edição de tarefas (bem como de usuários).
 
 
 ## Front-End
