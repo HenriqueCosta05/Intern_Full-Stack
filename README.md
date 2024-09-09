@@ -20,7 +20,7 @@ Toda a documentação está disponível neste repositório, enquanto o código f
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 - [ ] Cobertura completa de testes (em andamento)
-- [ ] Melhoria na performance da aplicação web (em andamento)
+- [ ] Melhoria na devolutiva de erros no front-end (em andamento)
 
 ## 💻 Pré-requisitos
 
@@ -87,3 +87,12 @@ Após a sincronização com o banco de dados, devemos realizar o seguinte comand
 
 
 ## Jornada do Usuário
+Ao inicializar ambos os serviços (front-end e back-end), o usuário deverá navegar até a url `http://localhost:5173/` e deverá realizar a seguinte sequência de passos:
+
+1. Cadastrar-se na plataforma, por meio do clique no botão `Cadastre-se já!`
+
+2. Ao cadastrar-se, o usuário deverá fazer login com as mesmas credenciais fornecidas no formulário de login.
+
+3. Ao autenticar-se, o usuário deverá criar uma tarefa, clicando no ícone respectivo.
+
+4. Criando a tarefa, o usuário terá a opção de editar ou excluir, caso desejar.
